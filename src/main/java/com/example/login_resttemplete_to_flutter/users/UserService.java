@@ -1,7 +1,8 @@
 package com.example.login_resttemplete_to_flutter.users;
 
-import com.ctecx.elimucloud.userroles.Role;
-import com.ctecx.elimucloud.userroles.RoleRepository;
+
+import com.example.login_resttemplete_to_flutter.userroles.Role;
+import com.example.login_resttemplete_to_flutter.userroles.RoleRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
